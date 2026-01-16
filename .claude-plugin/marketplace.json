@@ -1,0 +1,13 @@
+{
+  "name": "ai-skill-effect-lookup",
+  "owner": {
+    "name": "guillempuche",
+    "url": "https://github.com/guillempuche"
+  },
+  "plugins": [
+    {
+      "name": "ai-skill-effect-lookup",
+      "source": "./"
+    }
+  ]
+}

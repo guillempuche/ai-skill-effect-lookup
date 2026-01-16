@@ -5,7 +5,11 @@ Quick lookup for Effect TypeScript library APIs, patterns, and source code. Use 
 ## Install
 
 ```bash
+# Add marketplace
 /plugin marketplace add guillempuche/ai-skill-effect-lookup
+
+# Install plugin
+/plugin install ai-skill-effect-lookup@guillempuche-ai-skill-effect-lookup
 ```
 
 ## Requirements
