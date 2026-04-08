@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "ai-skill-effect-lookup",
+      "name": "effect-lookup",
       "source": "./"
     }
   ]
