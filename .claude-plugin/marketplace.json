@@ -1,5 +1,6 @@
 {
   "name": "ai-skill-effect-lookup",
+  "description": "Quick lookup for Effect TypeScript library APIs, patterns, and source code. Use when you need to find Effect functions, understand Effect patterns, or look up implementation details.",
   "owner": {
     "name": "guillempuche",
     "url": "https://github.com/guillempuche"
@@ -7,7 +8,10 @@
   "plugins": [
     {
       "name": "effect-lookup",
-      "source": "./"
+      "description": "Quick lookup for Effect TypeScript library APIs, patterns, and source code. Use when you need to find Effect functions, understand Effect patterns, or look up implementation details.",
+      "source": "./",
+      "license": "MIT",
+      "homepage": "https://github.com/guillempuche/ai-skill-effect-lookup"
     }
   ]
 }
