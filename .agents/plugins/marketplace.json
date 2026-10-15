@@ -1,0 +1,21 @@
+{
+  "name": "ai-skill-effect-lookup",
+  "interface": {
+    "displayName": "ai-skill-effect-lookup"
+  },
+  "plugins": [
+    {
+      "name": "effect-lookup",
+      "description": "Find Effect TypeScript signatures, source, and idioms from the local Effect checkout and docs. Use when you need to confirm an Effect API's signature, behavior, or deprecation, or find how an Effect pattern is done idiomatically.",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

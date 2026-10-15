@@ -12,6 +12,13 @@ The [`skills`](https://github.com/vercel-labs/skills) CLI installs into Codex, O
 npx skills add guillempuche/ai-skill-effect-lookup
 ```
 
+### Codex CLI
+
+```bash
+codex plugin marketplace add guillempuche/ai-skill-effect-lookup
+codex plugin add effect-lookup@ai-skill-effect-lookup
+```
+
 ### Claude Code
 
 ```bash
@@ -26,6 +33,12 @@ npx skills add guillempuche/ai-skill-effect-lookup
 
 ```bash
 gemini skills install https://github.com/guillempuche/ai-skill-effect-lookup.git --path skills/effect-lookup
+```
+
+### Antigravity
+
+```bash
+agy plugin install https://github.com/guillempuche/ai-skill-effect-lookup
 ```
 
 ### Manual
